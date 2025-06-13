@@ -1,2 +1,7 @@
-# portfolio_ab_testing
+# Портфолио по анализу данных с использованием A/B - тестирования
 A/B тестирования в рамках курса Аналитик данных
+
+№ | Ссылка на проект | Отрасль бизнеса | Описание | Используемые библиотеки | Презентация проекта 
+---|---|---|---|---|---
+1 | [Удаление маркетплейса из супераппа](https://github.com/buildwithST/portfolio_ab_testing/tree/2053cf62a627ee0a74b999aef65723a55a8302b1/Marketplace%20Removal%20Impact%20AB%20Test%20in%20a%20Super%20App) | Цифровые сервисы, Продуктовая аналитика | Проектирование A/B теста по удалению маркетплейса из интерфейса супераппа. Цель — проверить гипотезу, что упрощение интерфейса увеличит фокус пользователей на основном сервисе (такси). Описан дизайн эксперимента, целевые и вспомогательные метрики (CR, Retention, Time to Action, NPS), логика вызревания (1–21 день) и критерии успеха. | *A/B test design, BI-документация* | [Презентация "Удаление маркетплейса"](https://drive.google.com/file/d/1chUjSUFkdL8xiFDZZQxXzzkZqesu8Q42/view?usp=sharing)
+2 | [Email против Push: выбор канала коммуникации](https://github.com/buildwithST/portfolio_ab_testing/tree/2053cf62a627ee0a74b999aef65723a55a8302b1/Optimizing%20Communication%20Channels_%20Email%20vs%20Push%20AB%20Test) | Маркетинг, Growth-аналитика | A/B дизайн-эксперимент для определения наиболее эффективного канала привлечения новых пользователей: email или push. Гипотеза построена на рыночных бенчмарках в пользу push. Описан выбор метрик (CTR, CR, CPA как success; bounce, unsubscribe, NPS как guardrail), предложена серия запусков по сегментам и форматам. | *A/B test design, Communication Strategy* | [Презентация "Email vs Push"](https://drive.google.com/file/d/1JE-cFTirmHivszT-8xF4qtF0rKZ8ewto/view?usp=sharing)
